@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <master>
+  	<device model="ONEPLUS A3010">
+		<config>https://gitlab.com/ErnyTech/FastKIT-DeviceConfigs/raw/master/oneplus3.xml</config>
+	</device>
 </master>
